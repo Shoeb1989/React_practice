@@ -1,27 +1,20 @@
 # React_practice
 RoadMap For React
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
 
-# Color Test Document
 
-## Second Heading
 
-This is a test to see how the colors work.
- 
 ## to install React,
 
 ## 1> npm create vite@latest (folder or file name with - mark) -- --template react
 
 ## 2> cd file name
 
-3> npm install
+## 3> npm install
 
-4> npm run dev
+## 4> npm run dev
+
+React Router Install : https://reactrouter.com/en/main/start/tutorial
 
 
 React Website: https://react.dev
