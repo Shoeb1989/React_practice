@@ -11,6 +11,7 @@ to install React,
 4> npm run dev
 
 React Website: https://react.dev
+React Compo: https://github.com/brillout/awesome-react-components?tab=readme-ov-file
 
 For Compo Infos hooks:
 > useEffect --- It lets you perform side effects in components
