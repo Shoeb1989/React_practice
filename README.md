@@ -1,11 +1,17 @@
 # React_practice
 RoadMap For React
 
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Color Test Document
 
 ## Second Heading
+
+This is a test to see how the colors work.
  
 ## to install React,
 
