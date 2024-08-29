@@ -1,18 +1,22 @@
 # React_practice
 RoadMap For React
 
-color.Blue("Prints %s in blue."
-fmt.Println("All text will now be bold magenta.")
-to install React,"
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
-1> npm create vite@latest (folder or file name with - mark) -- --template react
+## Second Heading
+ 
+## to install React,
 
-2> cd file name
+## 1> npm create vite@latest (folder or file name with - mark) -- --template react
+
+## 2> cd file name
 
 3> npm install
 
 4> npm run dev
-")
+
 
 React Website: https://react.dev
 React Compo: https://github.com/brillout/awesome-react-components?tab=readme-ov-file
