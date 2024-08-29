@@ -12,7 +12,7 @@ to install React,
 
 React Website: https://react.dev
 
-For Compo Infos:
+For Compo Infos hooks:
 > useEffect --- It lets you perform side effects in components
 
 > useState--- Storing and managing component data.
