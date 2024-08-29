@@ -2,8 +2,9 @@
 RoadMap For React
 
 color.Blue("Prints %s in blue."
-
+fmt.Println("All text will now be bold magenta.")
 to install React,"
+
 1> npm create vite@latest (folder or file name with - mark) -- --template react
 
 2> cd file name
