@@ -1,7 +1,7 @@
 # React_practice
 RoadMap For React
 
-color.Blue("Prints %s in blue.", 
+color.Blue("Prints %s in blue."
 
 to install React,"
 1> npm create vite@latest (folder or file name with - mark) -- --template react
