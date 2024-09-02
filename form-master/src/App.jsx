@@ -1,5 +1,8 @@
 import './App.css'
-import SimpleForm from './Component/SimpleForm/SimpleForm'
+import HookFrom from './Component/HookFrom/HookFrom'
+import RefFrom from './Component/RefFrom/RefFrom'
+// import SimpleForm from './Component/SimpleForm/SimpleForm'
+// import StatefulForm from './Component/Statefulform/StatefulForm'
 
 function App() {
 
@@ -7,7 +10,10 @@ function App() {
     <>
       
       <h1>Form</h1>
-      <SimpleForm></SimpleForm>
+      {/* <SimpleForm></SimpleForm> */}
+      {/* <StatefulForm></StatefulForm> */}
+      {/* <RefFrom></RefFrom> */}
+      <HookFrom></HookFrom>
       
     </>
   )
