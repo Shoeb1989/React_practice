@@ -1,4 +1,5 @@
 import './App.css'
+import Grandpa from './Component/Grandpa/Grandpa'
 import HookFrom from './Component/HookFrom/HookFrom'
 import RefFrom from './Component/RefFrom/RefFrom'
 import ReuseableFrom from './Component/ReuseableFrom/ReuseableFrom'
@@ -7,25 +8,26 @@ import ReuseableFrom from './Component/ReuseableFrom/ReuseableFrom'
 
 function App() {
 
-  const handlesignupsubmit = data => {
-    console.log('sign Up', data );
-}
+//   const handlesignupsubmit = data => {
+//     console.log('sign Up', data );
+// }
 
-const handleUpdateProfile = data => {
-  console.log('update Data', data )
-}
+// const handleUpdateProfile = data => {
+//   console.log('update Data', data )
+// }
   return (
     <>
       
       <h1>Form</h1>
+      <Grandpa></Grandpa>
       {/* <SimpleForm></SimpleForm> */}
       {/* <StatefulForm></StatefulForm> */}
       {/* <RefFrom></RefFrom> */}
       {/* <HookFrom></HookFrom> */}
-      <ReuseableFrom fromtitle={'Sign Up'} 
+       {/* <ReuseableFrom fromtitle={'Sign Up'} 
       handlesubmit={handlesignupsubmit} ></ReuseableFrom>
-      <ReuseableFrom fromtitle={'Profile Update'} handlesubmit={handleUpdateProfile} submitupdate='Update' ></ReuseableFrom>
-    </>
+      <ReuseableFrom fromtitle={'Profile Update'} handlesubmit={handleUpdateProfile} submitupdate='Update' ></ReuseableFrom> */}
+    </> 
   )
 }
 
