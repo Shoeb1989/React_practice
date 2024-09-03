@@ -1,10 +1,9 @@
-# React_practice
+## React_practice
 RoadMap For React
 
 
 
-
-## to install React,
+## To install React,
 
  1> npm create vite@latest (folder or file name with - mark) -- --template react
 
@@ -25,6 +24,8 @@ RoadMap For React
 > useEffect --- It lets you perform side effects in components
 
 > useState--- Storing and managing component data.
+
+>Use  
 
 > useRef ---
 > 
