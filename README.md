@@ -21,11 +21,18 @@ RoadMap For React
 ## React Compo: https://github.com/brillout/awesome-react-components?tab=readme-ov-file
 
 ## For Compo Infos hooks:
-> useEffect --- It lets you perform side effects in components
+## > useEffect --- It lets you perform side effects in components
 
-> useState--- Storing and managing component data.
+## > useState--- Storing and managing component data.
 
->Use  
+## >Custom Hook :
+
+1.React component names must start with a capital letter, like StatusBar and
+SaveButton.
+
+2.Hook names must start with "use" followed by a capital letter, like useState
+(built-in) or useOnlineStatus
+
 
 > useRef ---
 
