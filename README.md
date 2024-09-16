@@ -27,14 +27,16 @@
 
  >Custom Hook :
 
+> useRef --- To create a new reference to a DOM element
+
 1.React component names must start with a capital letter, like StatusBar and
 SaveButton.
 
 2.Hook names must start with "use" followed by a capital letter, like useState
 (built-in) or useOnlineStatus
 
+## stop Form tag from reloading e.preventDefault()
 
-> useRef --- To create a new reference to a DOM element 
 
 > ## Prop Drilling to pass data to a many level components
 
