@@ -34,7 +34,7 @@ SaveButton.
 (built-in) or useOnlineStatus
 
 
-> useRef ---
+> useRef --- To create a new reference to a DOM element 
 
 > ## Prop Drilling to pass data to a many level components
 
